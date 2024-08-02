@@ -1,30 +1,30 @@
 import React from "react";
 import './Portfolio.css'
-import IMG1 from '../../assets/Architect.png'
+import IMG1 from '../../assets/object-detection.png'
 import IMG2 from '../../assets/Fashion Blog.png'
-import IMG3 from '../../assets/Analytics.png'
+import IMG3 from '../../assets/apple-store.png'
 
 const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Architect Template',
-        github: 'https://github.com',
-        demo: 'https://dribble.com'
+        title: 'Object Detection',
+        github: 'https://github.com/Shakiba28/object-detection',
+        demo: 'https://object-detection-ruddy.vercel.app/'
     },
     {
         id: 2,
         image: IMG2,
         title: 'Fashion Blog',
-        github: 'https://github.com',
-        demo: 'https://dribble.com'
+        github: 'https://github.com/Shakiba28/blog',
+        demo: 'https://shakiba28.github.io/blog/'
     },
     {
         id: 3,
         image: IMG3,
-        title: 'Analytics',
-        github: 'https://github.com',
-        demo: 'https://dribble.com'
+        title: 'Apple Store',
+        github: 'https://github.com/Shakiba28/apple-store',
+        demo: 'https://shakiba28.github.io/apple-store/'
     },
 ]
 

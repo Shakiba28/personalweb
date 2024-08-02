@@ -38,8 +38,9 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                        I am Shakiba, I work in the field of designing web pages and I am interested in it.I make beautiful web pages with html, css, bootstrap and js and in this roadmap I have reached react.
-                        This site you see is the result of my work with react.
+                        I am Shakiba,  Working with HTML, CSS, JavaScript, bootstrap and tailwind, familiar with Typescript and next js, I also have experience working with React framework. I also have the ability to design an attractive and efficient user interface (UI) and I am familiar with web optimization standards.
+                        {/* I am Shakiba, I work in the field of designing web pages and I am interested in it.I make beautiful web pages with html, css, bootstrap and js and in this roadmap I have reached react.
+                        This site you see is the result of my work with react. */}
 
                     </p>
                     <a href="#contact" className="btn btn-primery">

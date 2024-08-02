@@ -16,14 +16,14 @@ const Contact = () => {
                     <article className="contact__option">
                         <MdOutlineMail className="contact__option-icon" />
                         <h4>Email</h4>
-                        <h5>bshkyba430@gmail.com</h5>
-                        <a href="mailto:bshkyba430@gmail.com" target="_blank">Send a message</a>
+                        <h5>shakibabaghishani@gmail.com</h5>
+                        <a href="mailto:shakibabaghishani@gmail.com" target="_blank">Send a message</a>
                     </article>
 
                     {/* <article className="contact__option">
                         <BsLinkedin className="contact__option-icon" />
                         <h4>Linkdin</h4>
-                        <h5>bshkyba430@gmail.com</h5>
+                        <h5>shakibabaghishani@gmail.com</h5>
                         <a href="https://telegram.com/_shakiba_28" target="_blank">Send a message</a>
                     </article> */}
 
