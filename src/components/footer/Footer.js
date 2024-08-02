@@ -4,12 +4,12 @@ import { BsWhatsapp } from 'react-icons/bs'
 import { BsInstagram } from 'react-icons/bs'
 import { BsTelegram } from 'react-icons/bs'
 import { BsGithub } from 'react-icons/bs'
+import logo from '../../assets/logo.png';
 
 const Footer = () => {
     return (
         <footer>
-            <a href="#" className="footer__logo"><img src="../../assets/logo.png" alt="logo" /></a>
-
+            <img src={logo} className="footer__logo" alt="logo" />
             <ul className="permalinks">
                 <li><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>

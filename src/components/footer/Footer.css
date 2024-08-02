@@ -11,10 +11,12 @@ footer a {
 }
 
 .footer__logo {
-    font-size: 2rem;
+    margin: 0px auto;
+    width: 10%;
+    /* font-size: 2rem;
     font-weight: 500;
     margin-bottom: 2rem;
-    display: inline-block;
+    display: inline-block; */
 }
 
 .permalinks {
@@ -63,5 +65,9 @@ footer a {
 
     .footer__socials {
         margin-bottom: 2.6rem;
+    }
+
+    .footer__logo {
+        width: 40%;
     }
 }

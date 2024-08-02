@@ -16,7 +16,7 @@ const Contact = () => {
                     <article className="contact__option">
                         <MdOutlineMail className="contact__option-icon" />
                         <h4>Email</h4>
-                        <h5>shakibabaghishani@gmail.com</h5>
+                        {/* <h5>shakibabaghishani@gmail.com</h5> */}
                         <a href="mailto:shakibabaghishani@gmail.com" target="_blank">Send a message</a>
                     </article>
 
@@ -30,7 +30,7 @@ const Contact = () => {
                     <article className="contact__option">
                         <AiOutlineWhatsApp className="contact__option-icon" />
                         <h4>WhatsApp</h4>
-                        <h5>+989363738295</h5>
+                        {/* <h5>+989363738295</h5> */}
                         <a href="https://api.whatsapp.com/send?phone=989363738295" target="_blank">Send a message</a>
                     </article>
                 </div>
